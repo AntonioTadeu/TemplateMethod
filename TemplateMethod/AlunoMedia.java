@@ -1,5 +1,3 @@
-package padroescomportamentais.templatemethod;
-
 public class AlunoEnsinoMedio extends Aluno {
 
     public String verificarAprovacao() {
